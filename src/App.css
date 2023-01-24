@@ -1,8 +1,7 @@
 body {
-  background-image: url(C:\Users\mahes\OneDrive\Desktop\react-projects\emoji-identifier\public\emojiback.jpg);
+  background-image: url(C:\Users\mahes\OneDrive\Desktop\react-projects\emoji-identifier\public\eb.jpg);
   font-family: sans-serif;
-  background-position: left;
-  opacity: .8;
+  opacity: 0.8;
   padding: 20px;
 }
 
