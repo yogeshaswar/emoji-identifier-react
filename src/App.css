@@ -32,6 +32,8 @@
 input {
   width: 50%;
   height: 5vh;
+  border-radius: 5px;
+  border: 1px solid rgb(48, 48, 50);
 }
 
 
