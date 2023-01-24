@@ -1,6 +1,26 @@
+body {
+  background-image: url(C:\Users\mahes\OneDrive\Desktop\react-projects\emoji-identifier\public\emojiback.jpg);
+  font-family: sans-serif;
+  background-position: left;
+  opacity: .8;
+  padding: 20px;
+}
+
+.container {
+  width: 100%;
+  background-color: rgb(29, 27, 27);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 800px;
+  height: 80vh;
+  border-radius: 5px;
+}
+
 .App {
   text-align: center;
   align-items: center;
+  color: white;
 }
 
 .App-logo {
@@ -30,14 +50,8 @@
 }
 
 input {
-  width: 50%;
+  width: 80%;
   height: 5vh;
   border-radius: 5px;
   border: 1px solid rgb(48, 48, 50);
-}
-
-
-.container {
-  width: 80%;
-  align-items: center;
 }
